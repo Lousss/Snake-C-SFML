@@ -1,2 +1,2 @@
-# Snake-C-SFML-
+# Snake C SFML
 Snake version on CSFML
